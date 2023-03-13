@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Projectile
+  - Spike
+  - Coin
+  - HealthBar
+  - Destructible
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - EnemyTrigger
+  - 
+  - PlayerProjectile
+  - 
+  - Destructible
+  - EnemyBullet
+  - IgnoreBullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3086397873
+    locked: 0
+  - name: NPCs
+    uniqueID: 2401040461
+    locked: 0
+  - name: Walls
+    uniqueID: 1400156379
+    locked: 0

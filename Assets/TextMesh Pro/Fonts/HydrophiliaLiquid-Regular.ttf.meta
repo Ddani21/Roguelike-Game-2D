@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3a653029eea7e094eb4dee328ae4973f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hydrophilia Liquid
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b18034f58c8a56f4f82b21ac19e90a70, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
